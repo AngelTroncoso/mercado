@@ -1,0 +1,35 @@
+# ========================================================
+# DATOS DE ENTRADA PARA EL ESTUDIO DE MERCADO MULTIAGENTE
+# ========================================================
+
+# Industria o sector a investigar
+industria: "Sistemas multiagentes y análisis de datos con Inteligencia Artificial"
+
+# Descripción de tu negocio o producto actual (EDÍTALA con lo tuyo)
+descripcion_negocio: >
+  Desarrollo de soluciones y aplicaciones basadas en agentes de IA
+  (multiagentes) para análisis de datos, dirigidas a empresas y
+  organizaciones. Construyo prototipos funcionales con Python y
+  herramientas de IA, y los despliego como aplicaciones web.
+
+# País o mercado objetivo principal (cámbialo si es otro)
+pais: "Chile y Latinoamérica"
+
+# Ventana de análisis temporal
+ventana_analisis: "últimos 3 a 6 meses"
+
+# Competidores o referentes conocidos (opcional, verifica que sigan vigentes)
+competidores_referencia:
+  - "LangChain / LangGraph"
+  - "CrewAI"
+  - "AutoGen / Microsoft Agent Framework"
+  - "n8n"
+  - "Google Agent Development Kit (ADK)"
+
+# Notas adicionales para orientar a los agentes
+notas_adicionales: >
+  Quiero entender cómo se están adoptando los sistemas multiagentes
+  en el análisis de datos, qué herramientas y frameworks ganan
+  tracción, qué necesitan las empresas pequeñas y medianas en
+  Latinoamérica, y qué modelos de precios o servicios funcionan
+  (consultoría, SaaS, proyectos a medida).

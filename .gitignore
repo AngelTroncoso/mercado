@@ -1,0 +1,23 @@
+# Entornos virtuales
+venv/
+.venv/
+env/
+
+# Variables de entorno y credenciales
+.env
+.streamlit/secrets.toml
+
+# Archivos de caché y compilación de Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+informes/cache/
+
+# IDEs y editores
+.vscode/
+.idea/
+*.swp
+
+# Logs temporales
+*.log
